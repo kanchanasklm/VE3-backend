@@ -94,10 +94,17 @@ Open http://localhost:3000 in your browser to access the application.
 
 
 POST /auth/login: Log in a user
+
 POST /auth/register: Register a new user
+
 GET /tasks: Retrieve all tasks
+
 POST /tasks: Create a new task
+
 PUT /tasks/
+
 : Update a task
+
 DELETE /tasks/
+
 : Delete a task
